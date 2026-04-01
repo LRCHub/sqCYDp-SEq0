@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Frustration",
+  "base_artist": "SHANK",
+  "createdAt": "2026-04-01T10:26:45.663677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "LaToya Jackson",
+      "has_synced": true,
+      "path": "select/01_Frustration_LaToya_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/02_Frustration_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "Agnostic Front",
+      "has_synced": false,
+      "path": "select/03_Frustration_Agnostic_Front.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Frustration",
+      "artist": "Coal Chamber",
+      "has_synced": false,
+      "path": "select/04_My_Frustration_Coal_Chamber.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "Soft Cell",
+      "has_synced": true,
+      "path": "select/05_Frustration_Soft_Cell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "Lou Reed feat. Metallica",
+      "has_synced": false,
+      "path": "select/06_Frustration_Lou_Reed_feat._Metallica.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "Lou Reed & Metallica",
+      "has_synced": false,
+      "path": "select/07_Frustration_Lou_Reed_&_Metallica.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Your Frustration",
+      "artist": "7seconds",
+      "has_synced": true,
+      "path": "select/08_Your_Frustration_7seconds.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Your Frustration",
+      "artist": "7 Seconds",
+      "has_synced": true,
+      "path": "select/09_Your_Frustration_7_Seconds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Manic Frustration",
+      "artist": "Trouble",
+      "has_synced": false,
+      "path": "select/10_Manic_Frustration_Trouble.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Venom and Frustration",
+      "artist": "Whyzdom",
+      "has_synced": false,
+      "path": "select/11_Venom_and_Frustration_Whyzdom.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "Allure",
+      "has_synced": false,
+      "path": "select/12_Frustration_Allure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "Freak Gentlman's Club",
+      "has_synced": true,
+      "path": "select/13_Frustration_Freak_Gentlman's_Club.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "変態紳士クラブ",
+      "has_synced": true,
+      "path": "select/14_Frustration_変態紳士クラブ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Confusion And Frustration In Modern Times",
+      "artist": "Sum 41",
+      "has_synced": true,
+      "path": "select/15_Confusion_And_Frustration_In_Modern_Times_Sum_41.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Frustration",
+      "artist": "Joan Armatrading",
+      "has_synced": false,
+      "path": "select/16_Frustration_Joan_Armatrading.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Frustration",
+      "artist": "SHANK",
+      "has_synced": false,
+      "path": "select/pl_01_Frustration_SHANK.txt"
+    }
+  ]
+}
